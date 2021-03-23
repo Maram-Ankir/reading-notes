@@ -1,5 +1,5 @@
 # reading-notes
-## First let me introduce myself ^-^
+## First let me introduce myself :smile:
 Hello,, 
 
 It's Maram Ankir , 
@@ -32,7 +32,7 @@ any one abilities can be developed through training ,doing efforts and hard work
 
 A growth mindset is synonymous with a love of learning and opposite with fixed mindset .
 
-so don't give up !work hard until you reach a better version of yourself .
+so don't give up !work hard until you reach a better version of yourself :muscle:.
 
 
 ### **reminders to keep yourself in a growth mindset:** 
@@ -45,15 +45,15 @@ so don't give up !work hard until you reach a better version of yourself .
 ****
  
 ### features of Markdown to structure your page:
-1.Headings
+* Headings
 
-2.links
+* links
 
-3.bold and italic text
+* bold and italic text
 
-4.images
+* images
 
-5.Blockquotes and Paragraphs
+* Blockquotes and Paragraphs
 ****
 reading-notes is maintained by[Maram Ankir](https://github.com/maram-ankir).
 
