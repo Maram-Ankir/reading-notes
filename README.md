@@ -1,5 +1,5 @@
 # reading-notes
-## First let me introduce myself :smile:
+## First let me introduce myself 😄
 Hello,, 
 
 It's Maram Ankir , 
@@ -15,8 +15,8 @@ and here is my Github account :
 [github account](https://github.com/maram-ankir)
 
 [linkedin account](https://www.linkedin.com/in/maramankir/)
-****
 
+****
 
 
 
@@ -32,7 +32,7 @@ any one abilities can be developed through training ,doing efforts and hard work
 
 A growth mindset is synonymous with a love of learning and opposite with fixed mindset .
 
-so don't give up !work hard until you reach a better version of yourself :muscle:.
+so don't give up !work hard until you reach a better version of yourself 💪.
 
 
 ### **reminders to keep yourself in a growth mindset:** 
