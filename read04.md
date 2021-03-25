@@ -14,7 +14,9 @@ A   What is a script and how do I create one ?
 B   How do computers fit in with the world around them? 
 
 C   How do I write a script for a web page ?
+
 __________________________________________________________________________________________________________
+
 
 A script is a series of instructions that a computer can follow to achieve a goal.  
 
