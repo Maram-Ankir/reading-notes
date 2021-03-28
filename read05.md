@@ -1,4 +1,4 @@
-##Comparaison operators evaluating condition :
+## Comparaison operators evaluating condition :
 
 We can evaluate a situation by comparing one value to what expect it might be.
 
@@ -11,7 +11,7 @@ we use this operators :
 _______________________________________________________________________________
 
 
-##Logical Operators :
+## Logical Operators :
 
 Logical operators allow you to compare the results of more than one comparison operator .
 
@@ -25,7 +25,7 @@ we use this operators :
 
 ____________________________________________________________________________________
 
-##LOOPS
+## LOOPS
 
 loops check a condition. if return true the code block will run . 
 
@@ -39,7 +39,7 @@ the type of loops :
 
 * WHILE 
 
-*DO WHILE 
+* DO WHILE 
 
 Loop container :
 
