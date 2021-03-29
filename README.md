@@ -24,6 +24,7 @@ and here is my Github account :
 |read03         | [read03](read03.md)        |
 |read04         | [read04](read04.md)        |
 |read05         | [read05](read05.md)        |
+|read06         | [read06](read06.md)        |
 
 
 
