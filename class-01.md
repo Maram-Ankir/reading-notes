@@ -1,4 +1,4 @@
-#Introductory HTML and JavaScript 
+# Introductory HTML and JavaScript ...
 
 ### HTML 
 
@@ -7,21 +7,12 @@
 
 HTML Describes the Structure of Pages.
 
-WHAT: HTML is HyperText Markup Language, it's the markup language used to create the structure of the web pages.
+ HTML is HyperText Markup Language, it's the markup language used to create the structure of the web pages.
 
 
 The Structure of HTML:
 
-<!DOCTYPE html> this tag used to tell the browser that we use HTML5
-<html> this tag used to tell the browser that all the content inside is HTML
-  <head> this tag used to put all the information about the page
-    <title></title> this tag used to specify the page title.
-  </head>
-  <body> this tag used to put inside it everything that will dispaly in the page window.
-
-  </body>
-</html>
-
+![structure html](structure.png)
 _____________________________________________________________________
 
 ## EXTRA MARKUP
@@ -66,6 +57,9 @@ _______________________________________________________________________________
 
 
 ## Javascript
+
+! [JS](js.png)
+
 Javascript is a programming language that allows you to make the web pages interactive.
 
 it's convert a web page from static to dynamic, and it contain loops, conditions, math, functions.
@@ -74,18 +68,18 @@ A script is a series of instructions that the computer can follow in order to ac
 
 ### JS Example sheet:
 
-var Defines a variable
+var --> Defines a variable
 
-document.write() Write directly to the HTML document
+document.write() -->  Write directly to the HTML document
 
 if (condition) { code } If Statement
 
-prompt() Creates an dialogue for user input
+prompt() -->  Creates an dialogue for user input
 
-console.log() Writes information to the browser console, used for deevelopers.
+console.log()-->  Writes information to the browser console, used for deevelopers.
 
-alert() Output data in an alert box in the browser window
+alert()-->  Output data in an alert box in the browser window
 
-// single line comment
+// single line comment.
 
-/* */ Multi line comment
+/* */ Multi line comment.
