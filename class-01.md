@@ -55,10 +55,12 @@ _______________________________________________________________________________
 
 * You can use grouping and similarity to help simplify the information you present.
 
+________________________________________________________________________________
+
 
 ## Javascript
 
-! [JS](js.png)
+![JS](js.png)
 
 Javascript is a programming language that allows you to make the web pages interactive.
 
