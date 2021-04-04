@@ -36,31 +36,27 @@ this web site is about readings I finished ^_^
 
 
 
-Code 201 -->      [class-01.md](class-01.md) 
-
-
-
 
 
 ## Code 201 Reading Notes :
 
-| Assignment    | link              |
-| -----------   | -----------       |
-|read01         | [read01]()        |
-|read02         | [read02]()        |
-|read03         | [read03 ]()       |
-|read04         | [read04]()        |
-|read05         | [read05]()        |
-|read06         | [read06]()        |
-|read07         | [read07]()        |
-|read08         | [read08]()        |
-|read09         | [read09 ]()       |
-|read10         | [read10]()        |
-|read11         | [read11]()        |
-|read12         | [read12]()        |
-|read13         | [read13]()        |
-|read14         | [read14]()        |
-|read15         | [read15]()        |
+| Assignment    | link                 |
+| -----------   | -----------          |
+|read01         | [read01](class-01.md)|
+|read02         | [read02]()           |
+|read03         | [read03 ]()          |
+|read04         | [read04]()           |
+|read05         | [read05]()           |
+|read06         | [read06]()           |
+|read07         | [read07]()           |
+|read08         | [read08]()           |
+|read09         | [read09 ]()          |
+|read10         | [read10]()           |
+|read11         | [read11]()           |
+|read12         | [read12]()           |
+|read13         | [read13]()           |
+|read14         | [read14]()           |
+|read15         | [read15]()           |
 
 
 

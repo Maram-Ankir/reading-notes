@@ -68,7 +68,7 @@ it's convert a web page from static to dynamic, and it contain loops, conditions
 
 A script is a series of instructions that the computer can follow in order to achieve a goal. 
 
-### JS Example sheet:
+### JS Cheat sheet:
 
 var --> Defines a variable
 
