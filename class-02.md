@@ -25,7 +25,9 @@ mathematical concepts
 As you have already seen, the browser will automatically show each new paragraph or heading 
 on a new line. But if you wanted to add a line break inside the middle of a paragraph you can 
 use the line break tag br .
+
 _______________________________________________________________________________
+
 
 ### Semantic Markup
 
@@ -79,7 +81,7 @@ ________________________________________________________________________________
 
 * Expressions rely on operators to calculate a value. 
 
- ## LOOP 
+ ### LOOP 
 
 * Conditional statements allow your code to make decisions about what to do next. 
 * Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands. 
