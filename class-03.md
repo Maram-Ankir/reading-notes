@@ -1,20 +1,13 @@
-# HTML Links :
+# HTML Lists :
 
-## what ?
-Links allow us to move from one web page to another on webpages .
-## why ?
-To Create links between pages , Linking to other sites and Email links.
-## How ?
-
-* Links are created using the a element and href attribute .
-
-* Relative URLs can be used when linking to pages within your own website. Using shorthand way.
-
-* we only should write the url of page we want to link with inside href atttribute .We can link emails by adding the email address inside href.
-
-* To open this link in a new tap we should use ---> taget attribute (target="_blank").
-
-*  You can use the id attribute to target elements within a page that can be linked to and add #id name in href.
+1- There are three types of HTML lists: 
+* ordered list 
+* unordered list
+*  definition list  
+2-  Ordered lists use numbers.
+3-  Unordered lists use bullets.
+4-  Definition lists are used to define terminology.
+5-  Lists can be nested inside one another.
 
 _______________________________________________________________________________
 
