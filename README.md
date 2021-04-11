@@ -48,7 +48,7 @@ this web site is about readings I finished ^_^
 |read04         | [read04](class-04.md)|
 |read05         | [read05](class-05.md)|
 |read06         | [read06](class-06.md)|
-|read07         | [read07]()           |
+|read07         | [read07](class-07.md)|
 |read08         | [read08]()           |
 |read09         | [read09 ]()          |
 |read10         | [read10]()           |
