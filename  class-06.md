@@ -37,8 +37,11 @@ DOM specifies how browsers should create a model of an HTML page and how JavaScr
 ### METHODS THAT RETURN A SINGLE ELEMENT NODE:
 
 * getElementByld('id')
+
 * querySel ector('css selector')
+
 * getElementsByTagName('tagName')
+
 * querySelectorAll (css select or)
 
  
