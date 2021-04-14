@@ -51,7 +51,7 @@ this web site is about readings I finished ^_^
 |read07         | [read07](class-07.md)|
 |read08         | [read08](class-08.md)|
 |read09         | [read09](class-09.md)|
-|read10         | [read10]()           |
+|read10         | [read10](class-10.md)|
 |read11         | [read11]()           |
 |read12         | [read12]()           |
 |read13         | [read13]()           |
