@@ -55,7 +55,7 @@ this web site is about readings I finished ^_^
 |read11         | [read11](class-11.md)|
 |read12         | [read12](class-12.md)|
 |read13         | [read13](class-13.md)|
-|read14         | [read14]()           |
+|read14         | [read14](class-14.md)|
 |read15         | [read15]()           |
 
 
