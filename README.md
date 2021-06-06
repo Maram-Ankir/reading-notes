@@ -68,7 +68,7 @@ this web site is about readings I finished ^_^
 
 | Assignment    | link       |
 | -----------   | -----------|
-|read01         | [read01]()|
+|read01         | [read01](class-01-301.md)|
 |read02         | [read02]()|
 |read03         | [read03]()|
 |read04         | [read04]()|
