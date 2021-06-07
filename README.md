@@ -70,7 +70,7 @@ this web site is about readings I finished ^_^
 | -----------   | -----------|
 |read01         | [read01](class-01-301.md)|
 |read02         | [read02](class-02-301.md)|
-|read03         | [read03]()|
+|read03         | [read03](class-03-301.md)|
 |read04         | [read04]()|
 |read05         | [read05]()|
 
