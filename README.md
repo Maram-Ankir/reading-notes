@@ -73,6 +73,8 @@ this web site is about readings I finished ^_^
 |read03         | [read03](class-03-301.md)|
 |read04         | [read04](class-04-301.md)|
 |read05         | [read05](class-05-301.md)|
+|read06         | [read06](class-06-301.md)|
+
 
 ## Code 401 - Advanced Software Development
 
