@@ -76,6 +76,8 @@ this web site is about readings I finished ^_^
 |read06         | [read06](class-06-301.md)|
 |read07         | [read07](class-07-301.md)|
 |read08         | [read08](class-08-301.md)|
+|read09         | [read09](class-09-301.md)|
+
 
 
 
