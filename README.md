@@ -79,6 +79,8 @@ this web site is about readings I finished ^_^
 |read09         | [read09](class-09-301.md)|
 |read10         | [read10](class-10-301.md)|
 |read11         | [read11](class-11-301.md)|
+|read12         | [read12](class-12-301.md)|
+
 
 
 
