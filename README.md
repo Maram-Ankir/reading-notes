@@ -94,7 +94,7 @@ this web site is about readings I finished ^_^
 
 ## Code 401 - Advanced Software Development
 
-### Code 301 Reading Notes :
+### Code 401 Reading Notes :
 
 | Assignment    | link       |
 | -----------   | -----------|
