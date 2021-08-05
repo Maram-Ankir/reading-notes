@@ -107,6 +107,8 @@ this web site is about readings I finished ^_^
 |read07         | [read07](class-07-401.md)|
 |read08         | [read08](class-08-401.md)|
 |read09         | [read09](class-09-401.md)|
+|read10         | [read10](class-10-401.md)|
+
 
 
 
