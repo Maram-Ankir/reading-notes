@@ -98,16 +98,18 @@ this web site is about readings I finished ^_^
 
 | Assignment    | link       |
 | -----------   | -----------|
-|read01         | [read01](class-01-401.md)|
-|read02         | [read02](class-02-401.md)|
-|read03         | [read03](class-03-401.md)|
-|read04         | [read04](class-04-401.md)|
-|read05         | [read05](class-05-401.md)|
-|read06         | [read06](class-06-401.md)|
-|read07         | [read07](class-07-401.md)|
-|read08         | [read08](class-08-401.md)|
-|read09         | [read09](class-09-401.md)|
-|read10         | [read10](class-10-401.md)|
+|read01         | [read01](401/class-01-401.md)|
+|read02         | [read02](401/class-02-401.md)|
+|read03         | [read03](401/class-03-401.md)|
+|read04         | [read04](401/class-04-401.md)|
+|read05         | [read05](401/class-05-401.md)|
+|read06         | [read06](401/class-06-401.md)|
+|read07         | [read07](401/class-07-401.md)|
+|read08         | [read08](401/class-08-401.md)|
+|read09         | [read09](401/class-09-401.md)|
+|read10         | [read10](401/class-10-401.md)|
+|read11         | [read11](401/class-11-401.md)|
+
 
 
 
