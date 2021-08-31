@@ -119,6 +119,8 @@ this web site is about readings I finished ^_^
 |read19         | [read19](401/class-19-401.md)|
 |read26         | [read26](401/class-26-401.md)|
 |read27         | [read27](401/class-27-401.md)|
+|read28         | [read28](401/class-28-401.md)|
+
 
 
 
