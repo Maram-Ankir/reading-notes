@@ -121,6 +121,8 @@ this web site is about readings I finished ^_^
 |read27         | [read27](401/class-27-401.md)|
 |read28         | [read28](401/class-28-401.md)|
 |read29         | [read29](401/class-29-401.md)|
+|read30         | [read30](401/class-30-401.md)|
+
 
 
 
