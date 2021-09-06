@@ -123,6 +123,9 @@ this web site is about readings I finished ^_^
 |read29         | [read29](401/class-29-401.md)|
 |read30         | [read30](401/class-30-401.md)|
 |read31         | [read31](401/class-31-401.md)|
+|read32         | [read32](401/class-32-401.md)|
+
+
 
 
 
