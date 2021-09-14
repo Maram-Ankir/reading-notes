@@ -129,6 +129,8 @@ this web site is about readings I finished ^_^
 |read35         | [read35](401/class-35-401.md)|
 |read36         | [read36](401/class-36-401.md)|
 |read37         | [read37](401/class-37-401.md)|
+|read38         | [read38](401/class-38-401.md)|
+
 
 
 
